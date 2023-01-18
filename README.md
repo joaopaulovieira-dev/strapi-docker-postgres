@@ -1,8 +1,13 @@
-# 🚀 Introdução ao Strapi e docker-compose com Postgres (metodo fácil e rápido)
+# 🚀 Introdução ao Strapi e docker-compose com Postgres
 
 ## 📖 Sobre
 
 Este repositório contém um exemplo de como utilizar o Strapi com docker-compose e banco Postgres.
+
+## 📋 Pré-requisitos
+
+- [Docker](https://docs.docker.com/get-docker/)
+- [Node.js](https://nodejs.org/en/download/)
 
 ## ⚙️ Como executar
 
@@ -60,7 +65,7 @@ Com isso, o Strapi estará disponível em [http://localhost:1337](http://localho
 
 ## 💻 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/joaopaulovieira-dev/strapi-docker-postgres/blob/master/LICENSE.md) para mais detalhes.
 
 ## 🙋‍♂️ Autor
 
